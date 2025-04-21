@@ -2,3 +2,7 @@
 	path = KernelSU
 	url = https://github.com/ShirkNeko/SukiSU-Ultra.git
 	branch = susfs-dev
+[submodule "susfs4ksu"]
+	path = susfs4ksu
+	url = https://gitlab.com/simonpunk/susfs4ksu
+	branch = kernel-4.19
