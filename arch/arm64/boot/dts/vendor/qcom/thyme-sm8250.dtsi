@@ -20,9 +20,8 @@ And public attribution of xiaomi platforms(like J2S and so and)
 		};
 	};
 };
-&ufshc_mem {
-	qcom,disable-lpm;
 
+&ufshc_mem {
 	hsg4_synclength = /bits/ 16 <0x198 0x4F
 				     0x0 0x0
 				     0x0 0x0>;
